@@ -1,5 +1,5 @@
 {
-    "name": "netgen/site-legacy-bundle",
+    "name": "pkamps/site-legacy-bundle",
     "description": "Netgen Site Legacy Bundle is an eZ Platform bundle that implements common features that are used by Netgen to implement websites. This bundle acts as a glue between new and legacy kernels.",
     "license": "GPL-2.0-only",
     "authors": [
